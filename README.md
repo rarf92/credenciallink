@@ -1,2 +1,0 @@
-# credenciallink
-ejemplo imagen
